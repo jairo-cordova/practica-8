@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(165, 42, 114);
+}
+a {color:rgb(0, 0, 0); text-decoration: none;}
+
+p{
+    color: rgb(125, 238, 115); font-family: 'New Century Schoolbook', serif";
+}
+header{
+    background: rgb(18, 3, 155);
+}
+.menu {
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+  }
+.encabezado{
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 10px 10px;
+ }
+
+
+ 
